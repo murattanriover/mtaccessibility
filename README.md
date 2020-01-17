@@ -1,0 +1,2 @@
+# mtaccessibility
+Erişilebilirlik Scripti
